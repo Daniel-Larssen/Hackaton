@@ -17,7 +17,7 @@
     "bootstrap": "^4.4.1",
     "core-js": "^3.4.4",
     "html2canvas": "^1.0.0-rc.5",
-    "sanitize-html": "^1.21.1",
+    "sanitize-html": "^2.3.2",
     "vue": "^2.6.10",
     "vue-advanced-cropper": "^0.15.2",
     "vue-picture-input": "^2.1.6",
